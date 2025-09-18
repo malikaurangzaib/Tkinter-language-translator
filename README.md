@@ -39,7 +39,7 @@ python main.py
 ## Screenshots
 Here’s what the app looks like:
 
-![App Screenshot](images/Tkinter Language Translator.png)
+![App Screenshot](images/Tkinter%20Language%20Translator.png)
 
 ---
 
